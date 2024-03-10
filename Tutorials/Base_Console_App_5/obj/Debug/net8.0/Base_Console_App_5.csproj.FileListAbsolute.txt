@@ -1,0 +1,14 @@
+C:\Users\Shri\source\repos\Base_Console_App_5\bin\Debug\net8.0\Base_Console_App_5.exe
+C:\Users\Shri\source\repos\Base_Console_App_5\bin\Debug\net8.0\Base_Console_App_5.deps.json
+C:\Users\Shri\source\repos\Base_Console_App_5\bin\Debug\net8.0\Base_Console_App_5.runtimeconfig.json
+C:\Users\Shri\source\repos\Base_Console_App_5\bin\Debug\net8.0\Base_Console_App_5.dll
+C:\Users\Shri\source\repos\Base_Console_App_5\bin\Debug\net8.0\Base_Console_App_5.pdb
+C:\Users\Shri\source\repos\Base_Console_App_5\obj\Debug\net8.0\Base_Console_App_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shri\source\repos\Base_Console_App_5\obj\Debug\net8.0\Base_Console_App_5.AssemblyInfoInputs.cache
+C:\Users\Shri\source\repos\Base_Console_App_5\obj\Debug\net8.0\Base_Console_App_5.AssemblyInfo.cs
+C:\Users\Shri\source\repos\Base_Console_App_5\obj\Debug\net8.0\Base_Console_App_5.csproj.CoreCompileInputs.cache
+C:\Users\Shri\source\repos\Base_Console_App_5\obj\Debug\net8.0\Base_Console_App_5.dll
+C:\Users\Shri\source\repos\Base_Console_App_5\obj\Debug\net8.0\refint\Base_Console_App_5.dll
+C:\Users\Shri\source\repos\Base_Console_App_5\obj\Debug\net8.0\Base_Console_App_5.pdb
+C:\Users\Shri\source\repos\Base_Console_App_5\obj\Debug\net8.0\Base_Console_App_5.genruntimeconfig.cache
+C:\Users\Shri\source\repos\Base_Console_App_5\obj\Debug\net8.0\ref\Base_Console_App_5.dll

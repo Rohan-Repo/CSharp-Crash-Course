@@ -1,0 +1,14 @@
+C:\Users\Shri\source\repos\BankAccountSimulator\bin\Debug\net8.0\BankAccountSimulator.exe
+C:\Users\Shri\source\repos\BankAccountSimulator\bin\Debug\net8.0\BankAccountSimulator.deps.json
+C:\Users\Shri\source\repos\BankAccountSimulator\bin\Debug\net8.0\BankAccountSimulator.runtimeconfig.json
+C:\Users\Shri\source\repos\BankAccountSimulator\bin\Debug\net8.0\BankAccountSimulator.dll
+C:\Users\Shri\source\repos\BankAccountSimulator\bin\Debug\net8.0\BankAccountSimulator.pdb
+C:\Users\Shri\source\repos\BankAccountSimulator\obj\Debug\net8.0\BankAccountSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shri\source\repos\BankAccountSimulator\obj\Debug\net8.0\BankAccountSimulator.AssemblyInfoInputs.cache
+C:\Users\Shri\source\repos\BankAccountSimulator\obj\Debug\net8.0\BankAccountSimulator.AssemblyInfo.cs
+C:\Users\Shri\source\repos\BankAccountSimulator\obj\Debug\net8.0\BankAccountSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Shri\source\repos\BankAccountSimulator\obj\Debug\net8.0\BankAccountSimulator.dll
+C:\Users\Shri\source\repos\BankAccountSimulator\obj\Debug\net8.0\refint\BankAccountSimulator.dll
+C:\Users\Shri\source\repos\BankAccountSimulator\obj\Debug\net8.0\BankAccountSimulator.pdb
+C:\Users\Shri\source\repos\BankAccountSimulator\obj\Debug\net8.0\BankAccountSimulator.genruntimeconfig.cache
+C:\Users\Shri\source\repos\BankAccountSimulator\obj\Debug\net8.0\ref\BankAccountSimulator.dll

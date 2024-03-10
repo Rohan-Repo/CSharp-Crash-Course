@@ -1,0 +1,17 @@
+C:\Users\Shri\source\repos\Linq-Async-Await-Tasks\obj\Debug\net8.0\Linq-Async-Await-Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shri\source\repos\Linq-Async-Await-Tasks\obj\Debug\net8.0\Linq-Async-Await-Tasks.AssemblyInfoInputs.cache
+C:\Users\Shri\source\repos\Linq-Async-Await-Tasks\obj\Debug\net8.0\Linq-Async-Await-Tasks.AssemblyInfo.cs
+C:\Users\Shri\source\repos\Linq-Async-Await-Tasks\obj\Debug\net8.0\Linq-Async-Await-Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Shri\source\repos\Linq-Async-Await-Tasks\bin\Debug\net8.0\Linq-Async-Await-Tasks.exe
+C:\Users\Shri\source\repos\Linq-Async-Await-Tasks\bin\Debug\net8.0\Linq-Async-Await-Tasks.deps.json
+C:\Users\Shri\source\repos\Linq-Async-Await-Tasks\bin\Debug\net8.0\Linq-Async-Await-Tasks.runtimeconfig.json
+C:\Users\Shri\source\repos\Linq-Async-Await-Tasks\bin\Debug\net8.0\Linq-Async-Await-Tasks.dll
+C:\Users\Shri\source\repos\Linq-Async-Await-Tasks\bin\Debug\net8.0\Linq-Async-Await-Tasks.pdb
+C:\Users\Shri\source\repos\Linq-Async-Await-Tasks\obj\Debug\net8.0\Linq-Async-Await-Tasks.dll
+C:\Users\Shri\source\repos\Linq-Async-Await-Tasks\obj\Debug\net8.0\refint\Linq-Async-Await-Tasks.dll
+C:\Users\Shri\source\repos\Linq-Async-Await-Tasks\obj\Debug\net8.0\Linq-Async-Await-Tasks.pdb
+C:\Users\Shri\source\repos\Linq-Async-Await-Tasks\obj\Debug\net8.0\Linq-Async-Await-Tasks.genruntimeconfig.cache
+C:\Users\Shri\source\repos\Linq-Async-Await-Tasks\obj\Debug\net8.0\ref\Linq-Async-Await-Tasks.dll
+C:\Users\Shri\source\repos\Linq-Async-Await-Tasks\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Shri\source\repos\Linq-Async-Await-Tasks\obj\Debug\net8.0\Linq-Async-Await-Tasks.csproj.AssemblyReference.cache
+C:\Users\Shri\source\repos\Linq-Async-Await-Tasks\obj\Debug\net8.0\Linq-Async-Await-Tasks.csproj.CopyComplete
